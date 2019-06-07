@@ -6,6 +6,8 @@ This repository contains the slides and exercises from the two-day deep learning
 
 The lecture and slides have kindly been provided by [Dr. Ir. Jan van Gemert](https://jvgemert.github.io/).
 
-You can find the exercises and corresponding exercise notebooks in the corresponding folders. The exercise notebooks try to pull their data from one of two webspaces.
+You can find the exercises and corresponding exercise notebooks in the corresponding folders. You can choose to do the exercises and run them on your local machine, or use them in Google Colab.
+
+The exercise notebooks try to pull their data from one of two webspaces. In case these links become inoperative, the used datasets are placed as a release on this repository as well
 
 ![img](images/day1.jpg)
