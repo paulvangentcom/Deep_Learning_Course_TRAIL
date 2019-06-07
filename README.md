@@ -1,6 +1,6 @@
 # Deep Learning Course TRAIL
 
-![TU Delft](images/TU_Delft_logo.png)
+![TU Delft](images/TU_Delft_logo2.png)
 
 This repository contains the slides and exercises from the two-day deep learning course given at TU Delft on June 5th and 6th.
 
