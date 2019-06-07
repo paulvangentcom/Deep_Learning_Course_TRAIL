@@ -7,3 +7,5 @@ This repository contains the slides and exercises from the two-day deep learning
 The lecture and slides have kindly been provided by Dr. Ir. Jan van Gemert.
 
 You can find the exercises and corresponding exercise notebooks in the corresponding folders. The exercise notebooks try to pull their data from one of two webspaces.
+
+![img](images/day1.jpg)
