@@ -8,6 +8,6 @@ The lecture and slides have kindly been provided by [Dr. Ir. Jan van Gemert](htt
 
 You can find the exercises and corresponding exercise notebooks in the corresponding folders. You can choose to do the exercises and run them on your local machine, or use them in Google Colab.
 
-The exercise notebooks try to pull their data from one of two webspaces. In case these links become inoperative, the used datasets are placed as a release on this repository as well
+The exercise notebooks try to pull their data from one of two webspaces. In case these links become inoperative, the used datasets are placed as a release on this repository as well. Extract them in the exercise folders.
 
 ![img](images/day1.jpg)
